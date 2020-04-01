@@ -1,0 +1,67 @@
+
+body {
+  font-family: Lora;
+  background-image: linear-gradient(rgba(47, 23, 15, .65), rgba(47, 23, 15, .65))
+  ,url(../img/old/background2.jpeg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  overflow-x: hidden;
+}
+
+h1,
+h2 {
+  font-family: Raleway;
+  text-align: center;
+}
+
+p {
+  line-height: 1.75;
+}
+
+span{
+    text-align: center;
+}
+
+.text{
+    color:white;
+    text-align:center;
+    font-family: Raleway;
+}
+
+.text-faded {
+  color: rgba(255, 255, 255, .3);
+}
+
+.site-heading {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  text-transform: uppercase;
+  line-height: 1;
+  font-family: Raleway;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+}
+
+.site-heading-upper {
+  display: block;
+  font-size: 2rem;
+  font-weight: 800;
+}
+
+.site-heading-lower {
+  font-size: 5rem;
+  font-weight: 100;
+  line-height: 4rem;
+}
+
+.page-section {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.section-heading {
+  text-transform: uppercase;
+}
+
